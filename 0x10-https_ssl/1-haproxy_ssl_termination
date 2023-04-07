@@ -40,5 +40,5 @@ frontend web_frontend
 
 backend web_backend
     balance roundrobin
-    server 117930-web-01 18.233.62.82:80 check
-    server 117930-web-02 107.22.146.46:80 check
+    server 117930-web-01 18.207.233.231:80 check
+    server 117930-web-02 54.82.173.157:80 check
